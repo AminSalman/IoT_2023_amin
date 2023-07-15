@@ -1,0 +1,13 @@
+1. CNC Pen Plotter: This device can draw a picture an A4 paper by moving a pen. It contains an Arduino Uno with a modified firmware and a CNC shield. Its structure is mainly aluminum extrusion and 3D printed parts.
+
+
+2. Robotic Arm: Its structure is entirely 3D printed. It contains six servo motors that are controlled by Arduino Uno using a bluetooth module and an Android app.
+
+3. Autonomous Car: This project is controlled by Raspberry Pi. It uses Python Image Processing to to detect lanes and move properly. It stops when u place a red cube in front of it.
+
+4. Smart Home: The doors open and close automatically. The air conditioner and lights also turn on and off automatically. The main door has an RFID security system. It also allows you to control some features from your phone over bluetooth.
+
+
+5. Smart Farm: The temperature and humidity are shown on an LCD screen. There is also a solar panel that rotates towards sunlight. The irrigation is automatic. If the water tank is empty, a notification is sent to your phone over bluetooth. It also sends all data to your phone.
+
+6. Market Cart: Items are added to a list by scanning them using RFID.
